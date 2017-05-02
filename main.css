@@ -1,0 +1,12 @@
+.complete {
+    text-decoration: line-through;
+}
+.newtask {
+    color:darkturquoise;
+}
+.newtask:hover{
+    color:red;
+}
+.savedstatus {
+    color:darkgrey;
+}
